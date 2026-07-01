@@ -24,11 +24,11 @@ Tkinter (Built-in GUI library)
 
 📂 Project Structure
 tkinter-calculator/
-│
-├── calculator.py
-├── demo/
-│   └── demo.mp4
-└── README.md
+             │
+             ├── calculator.py
+             ├── demo/
+             │   └── demo.mp4
+             └── README.md
 
 🚀 How to Run
 Clone this repository:
